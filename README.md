@@ -1,5 +1,6 @@
 # BirlModuleRobot_for_fuziyang
-This is the personal ui control for fuziyang control the ModuleRobot.
+This is the personal UI control for fuziyang control the ModuleRobot.
+## 本代码的实现功能：通过linux管道传输控制指令给机器人控制界面，实现两个不同功能的界面的交互.
 
 ### 1、新建一个catkin/src工作空间，将third_modular_robot文件放入src文件夹下，执行catkin_make.
 
